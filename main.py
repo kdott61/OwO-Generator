@@ -3,8 +3,8 @@ import requests
 import random
 from data.cogs import start_gen
 
-tokens = [""] # tokens (add more than one token for faster gen)
-channelid = ""  # add channel id for msges to be posted
+tokens = ["9999999999999999999999999999999999999999999"] # tokens (add more than one token for faster gen)
+channelid = "1391096844695638157"  # add channel id for msges to be posted
 times = 0
 print('''
 
